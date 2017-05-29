@@ -1,0 +1,13 @@
+{
+    "name": "a.vinogradova/composer-lib",
+    "description": "Test Lib",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Anna Vinogradova",
+            "email": "a.vinogradova@syberry.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
